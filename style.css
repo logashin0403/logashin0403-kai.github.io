@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.name {
+  font-size: 35px;
+  margin:0 15% 0 15%;
+  width:70%;
+  text-align: left;
+  background-color: #00A383;
+  height: 120px;
+  margin-bottom: 6px;
+  border-radius: 10px;
+
+}
+
+.title {
+  font-size: 20px;
+  margin:0 15% 0 15%;
+  width:70%;
+  text-align: center;
+  background-color: #00A383;
+  height: 50px;
+  margin-bottom: 6px;
+  border-radius: 10px;
+
+}
+
+.ainheady {
+  color: white;
+  text-decoration: none;
+  margin-right: 30px;
+  vertical-align: middle;
+}
+
+.main {
+  font-size: 20px;
+  margin:0 15% 0 15%;
+  width:70%;
+  text-align: center;
+  background-color: #00A383;
+  height: 750px;
+  border-radius: 10px;
+  margin-bottom: 6px;
+
+}
+
+.h1inmain {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.h5inmain {
+  text-align: left;
+  padding-top: 50px;
+}
+
+.card {
+  padding-top: 10px;
+  margin-top: 40px;
+  width: 25%;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+
+  display: inline-block;
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+  width: 200px;
+  height: 200px;
+
+}
+
+
+
+.footy {
+  font-size: 20px;
+  margin:0 15% 0 15%;
+  width:70%;
+  text-align: center;
+  background-color: #00A383;
+  height: 70px;
+  margin-bottom: 6px;
+  border-radius: 10px;
+}
